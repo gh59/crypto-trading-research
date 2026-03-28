@@ -1,0 +1,10 @@
+{
+  "exchange": "binance",
+  "symbol": "BTC/USDT",
+  "timeframe": "1h",
+  "start_date": "2021-01-01",
+  "end_date": "2024-12-31",
+  "rate_limit_ms": 100,
+  "batch_size": 1000,
+  "data_dir": "../data"
+}
